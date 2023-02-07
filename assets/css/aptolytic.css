@@ -1,0 +1,46 @@
+.dark{
+  background: black !important;
+}
+/* .buy-now-wrapper{
+  display: none !important;
+} */
+.sidebar .sidebar-body{
+  border-right: none !important;
+}
+.brand{
+  color: #1de9b6 !important;
+}
+.brand-bg{
+  background: #1de9b6 !important;
+}
+.navbar{
+  background:black;
+  border-bottom: none;
+}
+.navbar .sidebar-toggler{
+  border-right: none !important;
+}
+.sidebar .sidebar-header{
+  background: none !important;
+  border-right:none !important;
+  border-bottom: none !important;
+}
+.lytic-card{
+  background: #1a1a1a;
+}
+.card{
+  border: none !important;
+}
+.lytic-menu{
+  font-size:1.2em !important;
+}
+.lytic-menu-icon{
+  font-size:1.2em !important;
+}
+.link-icon:hover{
+  color: #1de9b6 !important;
+}
+
+.link-icon{
+  color:#747474 !important;
+}
